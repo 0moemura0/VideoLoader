@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="error">#44ff0033</color>
+
+    <color name="olive_G99">#606C38</color>
+    <color name="warm_gray_W10">#283618</color>
+    <color name="bisque_E30">#FEFAE0</color>
+    <color name="atoll_R65">#DDA15E</color>
+    <color name="leather_E39">#BC6C25</color>
+</resources>

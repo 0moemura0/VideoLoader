@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VideoLoader</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="choose_video">choose video</string>
+    <string name="return_">return</string>
+    <string name="add">ADD</string>
+    <string name="background">BACKGROUND</string>
+    <string name="foreground">FOREGROUND</string>
+    <string name="add_video">ADD VIDEO</string>
+    <integer name="com_vk_sdk_AppId">7883793</integer>
+</resources>
